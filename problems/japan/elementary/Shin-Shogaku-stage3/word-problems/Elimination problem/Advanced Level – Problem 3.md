@@ -7,17 +7,16 @@ title: Advanced Problem 3
 
 "Try to solve it using only elementary school knowledge!"
 
-In the figure, rectangle T and rectangle S overlap.
+In the triangle on the right, the angles satisfy the following conditions:
 
-The overlapping area is:
-1/7 of rectangle T
-2/5 of rectangle S
-The total area of the combined shape (considered as one figure) is 85 cm².
+Angle a is equal to angle b
+Angle c is equal to angle d
+Angle e is equal to angle f
 
-![Angle Diagram](ImageEquivalentAdvanced3.png)
+![Angle Diagram](ImageEliminationAdvansed3.png)
 
 Question:
-What is the area of rectangle T?
+What is the measure of angle x?
 
 ---
 

@@ -9,6 +9,8 @@ title: Advanced Problem 1
 
 In the figure shown, ABCD is a trapezoid.
 
+![Angle Diagram](ImageCrane&TurtleAdvanced1.png)
+
 AB=20cm
 CD=10cm
 BC=30cm
