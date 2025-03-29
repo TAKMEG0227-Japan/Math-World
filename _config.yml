@@ -3,4 +3,4 @@ baseurl: ""  # GitHub Pages の場合は "/math-world"
 markdown: kramdown
 kramdown:
   math_engine: mathjax
-
+  input: GFM

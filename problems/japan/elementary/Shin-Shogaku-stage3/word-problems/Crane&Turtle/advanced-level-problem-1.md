@@ -9,7 +9,7 @@ title: Advanced Problem 1
 
 In the figure shown, ABCD is a trapezoid.
 
-![Angle Diagram]({{ site.baseurl }}/problems/japan/elementary/Shin-Shogaku-stage3/word-problems/Crane&Turtle/ImageCrane&TurtleAdvanced1.png)
+![Angle Diagram]({{ site.baseurl }}/problems/japan/elementary/Shin-Shogaku-stage3/word-problems/Crane&Turtle/ImageCrane&TurtleAdvanced1.png){:style="width:50%;"}
 
 AB=20cm　CD=10cm　BC=30cm
 

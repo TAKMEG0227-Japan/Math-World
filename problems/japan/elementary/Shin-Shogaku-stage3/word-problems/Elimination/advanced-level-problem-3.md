@@ -13,7 +13,7 @@ Angle a is equal to angle b
 Angle c is equal to angle d
 Angle e is equal to angle f
 
-![Angle Diagram]({{ site.baseurl }}/problems/japan/elementary/Shin-Shogaku-stage3/word-problems/Elimination/ImageEliminationAdvansed3.png)
+![Angle Diagram]({{ site.baseurl }}/problems/japan/elementary/Shin-Shogaku-stage3/word-problems/Elimination/ImageEliminationAdvansed3.png){:style="width:50%;"}
 
 
 Question:

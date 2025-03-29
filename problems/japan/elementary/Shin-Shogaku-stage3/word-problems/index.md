@@ -11,7 +11,7 @@ Choose your favorite category and challenge yourself at **Standard** or **Advanc
 ---
 
 {% assign categories = 
-  "Elimination problem,Age Problem,Difference & Spacing Calculations,Crane and Turtle Calculations,Salt Solution & Profit Calculations,Equivalent Proportion,Work Rate Problem,Distribution Ratio Problem,Multiple-Based Ratio,Newton-Type" | split: "," %}
+  "Elimination,Age,Difference&Spacing,Crane&Turtle,Salt-Solution&Profit,Equivalent,WorkRate,DistributionRatio,MultipleRatio,Newton-Type" | split: "," %}
 
 {% for category in categories %}
 ## 🔹 {{ category }}
