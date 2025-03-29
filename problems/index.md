@@ -6,7 +6,7 @@ title: 数学の問題一覧 / Mathematics Problems List
 # 📚 数学の問題一覧 / Mathematics Problems List
 
 ## 🇯🇵 日本 / Japan
-- [elementary word-problems / 小学校 文章問題](./japan/elementary/word-problems/index.md)
+- [elementary word-problems / 小学校 文章問題](./japan/elementary/Shin-Shogaku-stage3/word-problems/index.html)
 - [high calculus / 高校 微積分](./japan/high/calculus/problem1.md)
 
 ## 🇺🇸 アメリカ / USA

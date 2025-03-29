@@ -22,17 +22,22 @@ Choose your favorite category and challenge yourself at **Standard** or **Advanc
 
 <table>
   <tr>
-    <td><a href="./{{ category }}/Standard Level – Problem 1.md">Problem 1</a></td>
-    <td><a href="./{{ category }}/Standard Level – Problem 2.md">Problem 2</a></td>
-    <td><a href="./{{ category }}/Standard Level – Problem 3.md">Problem 3</a></td>
+    <td><a href="./{{ category }}/Standard-Level-Problem-1.md">Problem 1</a></td>
+    <td><a href="./{{ category }}/Standard-Level-Problem-2.md">Problem 2</a></td>
+    <td><a href="./{{ category }}/Standard-Level-Problem-3.md">Problem 3</a></td>
   </tr>
 </table>
 
 ### 🚀 Advanced Level
 
-- [Problem 1](./{{ category }}/Advanced Level – Problem 1.md)
-- [Problem 2](./{{ category }}/Advanced Level – Problem 2.md)
-- [Problem 3](./{{ category }}/Advanced Level – Problem 3.md)
+<table>
+  <tr>
+    <td><a href="./{{ category }}/advanced-level-problem-1.html">Problem 1</a></td>
+    <td><a href="./{{ category }}/advanced-level-problem-2.html">Problem 2</a></td>
+    <td><a href="./{{ category }}/advanced-level-problem-3.html">Problem 3</a></td>
+  </tr>
+</table>
+
 
 </div>
 
