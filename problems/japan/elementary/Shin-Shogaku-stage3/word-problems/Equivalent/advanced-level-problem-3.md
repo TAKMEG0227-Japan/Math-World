@@ -14,7 +14,7 @@ The overlapping area is:
 2/5 of rectangle S
 The total area of the combined shape (considered as one figure) is 85 cm².
 
-![Angle Diagram]({{ site.baseurl }}/problems/japan/elementary/Shin-Shogaku-stage3/word-problems/Equivalent/ImageEquivalentAdvanced3.png){:style="width:50%;"}
+![Angle Diagram]({{ site.baseurl }}/problems/japan/elementary/Shin-Shogaku-stage3/word-problems/Equivalent/ImageEquivalentAdvanced3.png){:style="width:25%;"}
 
 Question:
 What is the area of rectangle T?

@@ -12,7 +12,7 @@ In triangle ABC, the following conditions are given:
 The size of angle A is 9° greater than twice the size of angle B
 The ratio of angle B to angle C is 4 : 7
 
-![Angle Diagram]({{ site.baseurl }}/problems/japan/elementary/Shin-Shogaku-stage3/word-problems/DistributionRatio/ImageDistributionAdvanced2.png){:style="width:50%;"}
+![Angle Diagram]({{ site.baseurl }}/problems/japan/elementary/Shin-Shogaku-stage3/word-problems/DistributionRatio/ImageDistributionAdvanced2.png){:style="width:25%;"}
 
 
 Question:

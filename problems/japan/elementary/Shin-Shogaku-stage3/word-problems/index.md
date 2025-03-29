@@ -22,21 +22,37 @@ Choose your favorite category and challenge yourself at **Standard** or **Advanc
 
 <table>
   <tr>
-    <td><a href="./{{ category }}/Standard-Level-Problem-1.md">Problem 1</a></td>
-    <td><a href="./{{ category }}/Standard-Level-Problem-2.md">Problem 2</a></td>
-    <td><a href="./{{ category }}/Standard-Level-Problem-3.md">Problem 3</a></td>
+    {% for i in (1..6) %}
+      {% assign filename = "./" | append: category | append: "/standard-level-problem-" | append: i | append: ".html" %}
+      <td>
+        {% if site.static_files | where: "path", filename | size > 0 %}
+          <a href="{{ filename }}">Problem {{ i }}</a>
+        {% else %}
+          <span style="color:gray;">Coming Soon</span>
+        {% endif %}
+      </td>
+    {% endfor %}
   </tr>
 </table>
+
 
 ### 🚀 Advanced Level
 
 <table>
   <tr>
-    <td><a href="./{{ category }}/advanced-level-problem-1.html">Problem 1</a></td>
-    <td><a href="./{{ category }}/advanced-level-problem-2.html">Problem 2</a></td>
-    <td><a href="./{{ category }}/advanced-level-problem-3.html">Problem 3</a></td>
+    {% for i in (1..6) %}
+      {% assign filename = "./" | append: category | append: "/advanced-level-problem-" | append: i | append: ".html" %}
+      <td>
+        {% if site.static_files | where: "path", filename | size > 0 %}
+          <a href="{{ filename }}">Problem {{ i }}</a>
+        {% else %}
+          <span style="color:gray;">Coming Soon</span>
+        {% endif %}
+      </td>
+    {% endfor %}
   </tr>
 </table>
+
 
 
 </div>
